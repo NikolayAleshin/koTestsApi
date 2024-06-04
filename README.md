@@ -19,4 +19,4 @@ git clone
 1 docker-compose up --build
 2 open http://localhost:8080
 ```
-![Uploading image.png…]()
+<img width="1724" alt="image" src="https://github.com/NikolayAleshin/koTestsApi/assets/23275554/3abd24c2-6a78-4bd1-8de0-bc8eeffdda5b">
